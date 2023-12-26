@@ -7,10 +7,10 @@ Explore the demonstration of Project 9 in my [[Project Collection]](https://www.
 
 ## Project Description
 Overview:
-Massive Home web application built with HTML5 and SASS 🖥️
+Massive Home web application built with Javascript, HTML5 and SASS 🖥️
 
 Key Features:
 - SASS language
 - Magic pop-up
 - Owl Carousel Plugin
-- User-friendly design
+- User-friendly and interactive interface
